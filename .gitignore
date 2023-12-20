@@ -1,6 +1,7 @@
 .envrc
 credentials.json
 out/
+private_*.py
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
